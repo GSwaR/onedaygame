@@ -3,40 +3,30 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Spawner : MonoBehaviour
+public abstract class Spawner : MonoBehaviour
 {
-    [SerializeField] private GameObject objectToSpawn;
-    [SerializeField] private Transform spawnPosition;
-
-    [SerializeField] private Transform spawned;
+    [SerializeField] protected GameObject objectToSpawn;
+    [SerializeField] protected Transform spawnPosition;
+    [SerializeField] protected Transform spawned;
     
-    [Header("Conditional functional")]
-    [Tooltip("Set 'true' to spawn object on Start")]
-    [SerializeField] private bool spawnOnStart = false;
-
-    private void Start()
-    {
-        if (spawnOnStart)
-        {
-            Spawn();
-            SetParent();
-        }
-    }
-
-    public void Spawn()
+    protected void Spawn()
     {
         spawned = Instantiate(objectToSpawn, spawnPosition).transform;
     }
 
-    public void SetParent()
+    protected void SetParent()
     {
         spawned.parent = transform;
     }
 
+    protected virtual void DespawnLogic(GameObject objectToDespawn)
+    {
+        
+    }
+    
     public void Despawn(GameObject objectToDespawn)
     {
-        Spawn();
-        SetParent();
-        Destroy(objectToDespawn);
+        Debug.Log("Despawn called");
+        DespawnLogic(objectToDespawn);
     }
 }

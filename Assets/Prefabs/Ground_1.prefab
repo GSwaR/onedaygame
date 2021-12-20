@@ -104,6 +104,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 3102656689420176319}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 8703415665001159164, guid: 181604fe5cf74334e946e9fa02b9e574, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
@@ -113,9 +116,7 @@ MonoBehaviour:
   - {fileID: 1459490028823395840, guid: ab2ef1193ced3bc419186f30ac0b59c3, type: 3}
   - {fileID: 8960698585720767047, guid: 04a82c9de2ffb9d42810553df608619f, type: 3}
   - {fileID: 1204487131131749945, guid: 7867a504e57370d4f90b4c6be5fb1c9f, type: 3}
-  spawnPosition: {fileID: 3102656689420176319}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 8
 --- !u!1 &631055171539083285
 GameObject:
@@ -331,6 +332,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 4734975125998084644}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 3190890903789567874, guid: 89b91c4a99653374fa538ff666a4eec5, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
@@ -339,9 +343,7 @@ MonoBehaviour:
   - {fileID: 3190890903789567874, guid: 89b91c4a99653374fa538ff666a4eec5, type: 3}
   - {fileID: 8960698585720767047, guid: 04a82c9de2ffb9d42810553df608619f, type: 3}
   - {fileID: 8703415665001159164, guid: 181604fe5cf74334e946e9fa02b9e574, type: 3}
-  spawnPosition: {fileID: 4734975125998084644}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 9
 --- !u!1 &1115528778049919903
 GameObject:
@@ -559,6 +561,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 1179462429899355839}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 8960698585720767047, guid: 04a82c9de2ffb9d42810553df608619f, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
@@ -566,9 +571,7 @@ MonoBehaviour:
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
   - {fileID: 3190890903789567874, guid: 89b91c4a99653374fa538ff666a4eec5, type: 3}
   - {fileID: 1204487131131749945, guid: 7867a504e57370d4f90b4c6be5fb1c9f, type: 3}
-  spawnPosition: {fileID: 1179462429899355839}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 5
 --- !u!1 &1758056670927562210
 GameObject:
@@ -614,6 +617,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 6225951004376940688}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 8042178826173570840, guid: 48f1d7a3f333e04499c600403eb61506, type: 3}
@@ -623,9 +629,7 @@ MonoBehaviour:
   - {fileID: 7613053254875133145, guid: d12c59a200d9d4d46b77b5b9457660f3, type: 3}
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 8042178826173570840, guid: 48f1d7a3f333e04499c600403eb61506, type: 3}
-  spawnPosition: {fileID: 6225951004376940688}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 6
 --- !u!1 &1833646900100236174
 GameObject:
@@ -783,6 +787,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 5465954862965902114}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 8960698585720767047, guid: 04a82c9de2ffb9d42810553df608619f, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
@@ -791,9 +798,7 @@ MonoBehaviour:
   - {fileID: 3190890903789567874, guid: 89b91c4a99653374fa538ff666a4eec5, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
   - {fileID: 5126095084364059015, guid: d56ee250ebf112c44bbe2e1d49d5be9a, type: 3}
-  spawnPosition: {fileID: 5465954862965902114}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 7
 --- !u!1 &2153639892179958322
 GameObject:
@@ -839,6 +844,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 4956431231254855306}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 7613053254875133145, guid: d12c59a200d9d4d46b77b5b9457660f3, type: 3}
@@ -846,9 +854,7 @@ MonoBehaviour:
   - {fileID: 8042178826173570840, guid: 48f1d7a3f333e04499c600403eb61506, type: 3}
   - {fileID: 2614026418001930950, guid: 81cf5eb8e39622a448e0c748a61057c4, type: 3}
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
-  spawnPosition: {fileID: 4956431231254855306}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 2
 --- !u!1 &2294331676657446447
 GameObject:
@@ -894,6 +900,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 2686421965037951276}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 7425622098821680612, guid: 9fcd695d1a77b9c4ab9b563792c3e630, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
@@ -903,9 +912,7 @@ MonoBehaviour:
   - {fileID: 8703415665001159164, guid: 181604fe5cf74334e946e9fa02b9e574, type: 3}
   - {fileID: 8703415665001159164, guid: 181604fe5cf74334e946e9fa02b9e574, type: 3}
   - {fileID: 1204487131131749945, guid: 7867a504e57370d4f90b4c6be5fb1c9f, type: 3}
-  spawnPosition: {fileID: 2686421965037951276}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 9
 --- !u!1 &2337206372315459994
 GameObject:
@@ -1011,6 +1018,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 70272963693426732}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 1204487131131749945, guid: 7867a504e57370d4f90b4c6be5fb1c9f, type: 3}
   - {fileID: 5126095084364059015, guid: d56ee250ebf112c44bbe2e1d49d5be9a, type: 3}
@@ -1019,9 +1029,7 @@ MonoBehaviour:
   - {fileID: 5126095084364059015, guid: d56ee250ebf112c44bbe2e1d49d5be9a, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
   - {fileID: 1204487131131749945, guid: 7867a504e57370d4f90b4c6be5fb1c9f, type: 3}
-  spawnPosition: {fileID: 70272963693426732}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 5
 --- !u!1 &2709674384786286120
 GameObject:
@@ -1323,6 +1331,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 8435152834065059472}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 5126095084364059015, guid: d56ee250ebf112c44bbe2e1d49d5be9a, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
@@ -1332,9 +1343,7 @@ MonoBehaviour:
   - {fileID: 1204487131131749945, guid: 7867a504e57370d4f90b4c6be5fb1c9f, type: 3}
   - {fileID: 1204487131131749945, guid: 7867a504e57370d4f90b4c6be5fb1c9f, type: 3}
   - {fileID: 8960698585720767047, guid: 04a82c9de2ffb9d42810553df608619f, type: 3}
-  spawnPosition: {fileID: 8435152834065059472}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 7
 --- !u!1 &3288638541393743245
 GameObject:
@@ -1380,6 +1389,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 6204574361533048502}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 8042178826173570840, guid: 48f1d7a3f333e04499c600403eb61506, type: 3}
@@ -1389,9 +1401,7 @@ MonoBehaviour:
   - {fileID: 7613053254875133145, guid: d12c59a200d9d4d46b77b5b9457660f3, type: 3}
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 8042178826173570840, guid: 48f1d7a3f333e04499c600403eb61506, type: 3}
-  spawnPosition: {fileID: 6204574361533048502}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 7
 --- !u!1 &3288793117743642663
 GameObject:
@@ -1443,7 +1453,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   despawner: {x: -21.39443, y: -10.37728}
-  modifier: 0.12
+  speedModifier: 0.09
   smoothTime: 0
   velocity: {x: 0, y: 0}
 --- !u!1 &3425662200441228420
@@ -1552,6 +1562,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 8379877638412782342}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 3190890903789567874, guid: 89b91c4a99653374fa538ff666a4eec5, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
@@ -1562,9 +1575,7 @@ MonoBehaviour:
   - {fileID: 1204487131131749945, guid: 7867a504e57370d4f90b4c6be5fb1c9f, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
   - {fileID: 5126095084364059015, guid: d56ee250ebf112c44bbe2e1d49d5be9a, type: 3}
-  spawnPosition: {fileID: 8379877638412782342}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 9
 --- !u!1 &3918188971259089122
 GameObject:
@@ -1610,15 +1621,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 705254717201519303}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 8042178826173570840, guid: 48f1d7a3f333e04499c600403eb61506, type: 3}
   - {fileID: 2614026418001930950, guid: 81cf5eb8e39622a448e0c748a61057c4, type: 3}
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 7613053254875133145, guid: d12c59a200d9d4d46b77b5b9457660f3, type: 3}
-  spawnPosition: {fileID: 705254717201519303}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 3
 --- !u!1 &4116721522605765729
 GameObject:
@@ -1746,6 +1758,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 1837611065607207358}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 3190890903789567874, guid: 89b91c4a99653374fa538ff666a4eec5, type: 3}
   - {fileID: 3190890903789567874, guid: 89b91c4a99653374fa538ff666a4eec5, type: 3}
@@ -1753,9 +1768,7 @@ MonoBehaviour:
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
   - {fileID: 3190890903789567874, guid: 89b91c4a99653374fa538ff666a4eec5, type: 3}
   - {fileID: 3190890903789567874, guid: 89b91c4a99653374fa538ff666a4eec5, type: 3}
-  spawnPosition: {fileID: 1837611065607207358}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 5
 --- !u!1 &4423398999693728945
 GameObject:
@@ -1801,6 +1814,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 1035448467513235532}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 7613053254875133145, guid: d12c59a200d9d4d46b77b5b9457660f3, type: 3}
@@ -1811,9 +1827,7 @@ MonoBehaviour:
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 2614026418001930950, guid: 81cf5eb8e39622a448e0c748a61057c4, type: 3}
-  spawnPosition: {fileID: 1035448467513235532}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 5
 --- !u!1 &4501438074615177446
 GameObject:
@@ -1859,6 +1873,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 1276144497381017111}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 2614026418001930950, guid: 81cf5eb8e39622a448e0c748a61057c4, type: 3}
   - {fileID: 7613053254875133145, guid: d12c59a200d9d4d46b77b5b9457660f3, type: 3}
@@ -1868,9 +1885,7 @@ MonoBehaviour:
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 8042178826173570840, guid: 48f1d7a3f333e04499c600403eb61506, type: 3}
   - {fileID: 2614026418001930950, guid: 81cf5eb8e39622a448e0c748a61057c4, type: 3}
-  spawnPosition: {fileID: 1276144497381017111}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 5
 --- !u!1 &4643055803226169500
 GameObject:
@@ -1916,6 +1931,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 2197110485981816986}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 7425622098821680612, guid: 9fcd695d1a77b9c4ab9b563792c3e630, type: 3}
   - {fileID: 5126095084364059015, guid: d56ee250ebf112c44bbe2e1d49d5be9a, type: 3}
@@ -1927,9 +1945,7 @@ MonoBehaviour:
   - {fileID: 8960698585720767047, guid: 04a82c9de2ffb9d42810553df608619f, type: 3}
   - {fileID: 8960698585720767047, guid: 04a82c9de2ffb9d42810553df608619f, type: 3}
   - {fileID: 1204487131131749945, guid: 7867a504e57370d4f90b4c6be5fb1c9f, type: 3}
-  spawnPosition: {fileID: 2197110485981816986}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 6
 --- !u!1 &4685831165892370248
 GameObject:
@@ -1975,6 +1991,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 8581892396764825827}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 7425622098821680612, guid: 9fcd695d1a77b9c4ab9b563792c3e630, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
@@ -1983,9 +2002,7 @@ MonoBehaviour:
   - {fileID: 8960698585720767047, guid: 04a82c9de2ffb9d42810553df608619f, type: 3}
   - {fileID: 5126095084364059015, guid: d56ee250ebf112c44bbe2e1d49d5be9a, type: 3}
   - {fileID: 8703415665001159164, guid: 181604fe5cf74334e946e9fa02b9e574, type: 3}
-  spawnPosition: {fileID: 8581892396764825827}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 7
 --- !u!1 &4777353209256562849
 GameObject:
@@ -2031,6 +2048,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 3739011262397851215}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 3190890903789567874, guid: 89b91c4a99653374fa538ff666a4eec5, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
@@ -2039,9 +2059,7 @@ MonoBehaviour:
   - {fileID: 8960698585720767047, guid: 04a82c9de2ffb9d42810553df608619f, type: 3}
   - {fileID: 1459490028823395840, guid: ab2ef1193ced3bc419186f30ac0b59c3, type: 3}
   - {fileID: 3190890903789567874, guid: 89b91c4a99653374fa538ff666a4eec5, type: 3}
-  spawnPosition: {fileID: 3739011262397851215}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 8
 --- !u!1 &4803808686065532255
 GameObject:
@@ -2201,6 +2219,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 6180838348572975459}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 8042178826173570840, guid: 48f1d7a3f333e04499c600403eb61506, type: 3}
@@ -2209,9 +2230,7 @@ MonoBehaviour:
   - {fileID: 2614026418001930950, guid: 81cf5eb8e39622a448e0c748a61057c4, type: 3}
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 7613053254875133145, guid: d12c59a200d9d4d46b77b5b9457660f3, type: 3}
-  spawnPosition: {fileID: 6180838348572975459}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 4
 --- !u!1 &5180068158858969566
 GameObject:
@@ -2257,6 +2276,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 6483742417291944870}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 7613053254875133145, guid: d12c59a200d9d4d46b77b5b9457660f3, type: 3}
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
@@ -2265,9 +2287,7 @@ MonoBehaviour:
   - {fileID: 2614026418001930950, guid: 81cf5eb8e39622a448e0c748a61057c4, type: 3}
   - {fileID: 8042178826173570840, guid: 48f1d7a3f333e04499c600403eb61506, type: 3}
   - {fileID: 2614026418001930950, guid: 81cf5eb8e39622a448e0c748a61057c4, type: 3}
-  spawnPosition: {fileID: 6483742417291944870}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 5
 --- !u!1 &5572133014061234588
 GameObject:
@@ -2343,6 +2363,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 6701142212920649207}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 8703415665001159164, guid: 181604fe5cf74334e946e9fa02b9e574, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
@@ -2351,9 +2374,7 @@ MonoBehaviour:
   - {fileID: 8703415665001159164, guid: 181604fe5cf74334e946e9fa02b9e574, type: 3}
   - {fileID: 7425622098821680612, guid: 9fcd695d1a77b9c4ab9b563792c3e630, type: 3}
   - {fileID: 5126095084364059015, guid: d56ee250ebf112c44bbe2e1d49d5be9a, type: 3}
-  spawnPosition: {fileID: 6701142212920649207}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 7
 --- !u!1 &6212958527964159835
 GameObject:
@@ -2429,6 +2450,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 1195844722305457422}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 2614026418001930950, guid: 81cf5eb8e39622a448e0c748a61057c4, type: 3}
@@ -2437,9 +2461,7 @@ MonoBehaviour:
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 7613053254875133145, guid: d12c59a200d9d4d46b77b5b9457660f3, type: 3}
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
-  spawnPosition: {fileID: 1195844722305457422}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 8
 --- !u!1 &6463718278982236717
 GameObject:
@@ -2485,6 +2507,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 6964860469193420319}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 7425622098821680612, guid: 9fcd695d1a77b9c4ab9b563792c3e630, type: 3}
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
@@ -2494,9 +2519,7 @@ MonoBehaviour:
   - {fileID: 2136937493837549791, guid: 40407bdfee1c27b42aec7ca25653c6a5, type: 3}
   - {fileID: 7425622098821680612, guid: 9fcd695d1a77b9c4ab9b563792c3e630, type: 3}
   - {fileID: 7425622098821680612, guid: 9fcd695d1a77b9c4ab9b563792c3e630, type: 3}
-  spawnPosition: {fileID: 6964860469193420319}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 7
 --- !u!1 &6713564105587884145
 GameObject:
@@ -2572,6 +2595,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 395804522900250245}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 7613053254875133145, guid: d12c59a200d9d4d46b77b5b9457660f3, type: 3}
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
@@ -2580,9 +2606,7 @@ MonoBehaviour:
   - {fileID: 2614026418001930950, guid: 81cf5eb8e39622a448e0c748a61057c4, type: 3}
   - {fileID: 7613053254875133145, guid: d12c59a200d9d4d46b77b5b9457660f3, type: 3}
   - {fileID: 8042178826173570840, guid: 48f1d7a3f333e04499c600403eb61506, type: 3}
-  spawnPosition: {fileID: 395804522900250245}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 4
 --- !u!1 &7054192601451774780
 GameObject:
@@ -2658,6 +2682,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 8306068325813378579}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 8042178826173570840, guid: 48f1d7a3f333e04499c600403eb61506, type: 3}
   - {fileID: 2614026418001930950, guid: 81cf5eb8e39622a448e0c748a61057c4, type: 3}
@@ -2668,9 +2695,7 @@ MonoBehaviour:
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 2614026418001930950, guid: 81cf5eb8e39622a448e0c748a61057c4, type: 3}
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
-  spawnPosition: {fileID: 8306068325813378579}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 7
 --- !u!1 &7137509103360630064
 GameObject:
@@ -2776,15 +2801,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f866cf8570ec8fd40adb0184ec28dd48, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  objectToSpawn: {fileID: 0}
+  spawnPosition: {fileID: 7268947403992304352}
+  spawned: {fileID: 0}
   objectsToSpawn:
   - {fileID: 3595931421327360696, guid: 6f307c2648783174092a83168afb72d0, type: 3}
   - {fileID: 8042178826173570840, guid: 48f1d7a3f333e04499c600403eb61506, type: 3}
   - {fileID: 7613053254875133145, guid: d12c59a200d9d4d46b77b5b9457660f3, type: 3}
   - {fileID: 2614026418001930950, guid: 81cf5eb8e39622a448e0c748a61057c4, type: 3}
   - {fileID: 7613053254875133145, guid: d12c59a200d9d4d46b77b5b9457660f3, type: 3}
-  spawnPosition: {fileID: 7268947403992304352}
   spawnOnStart: 1
-  spawned: {fileID: 0}
   emptyObjectsAmount: 3
 --- !u!1 &7802595481946381580
 GameObject:

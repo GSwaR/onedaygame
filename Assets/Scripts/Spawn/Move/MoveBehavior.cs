@@ -6,7 +6,7 @@ using UnityEngine;
 public class MoveBehavior : MonoBehaviour
 {
     [SerializeField] private Vector2 despawner;
-    [SerializeField] private float modifier;
+    [SerializeField] private float speedModifier;
     [SerializeField] private float smoothTime;
     [SerializeField] private Vector2 velocity;
 
@@ -19,7 +19,7 @@ public class MoveBehavior : MonoBehaviour
     {
         while (transform.position.x > despawner.x && transform.position.y > despawner.y)
         {
-            Vector2 newPosition = transform.position + transform.up * -1 * modifier;
+            Vector2 newPosition = transform.position + transform.up * -1 * speedModifier;
            
             transform.position = Vector2.SmoothDamp(transform.position, newPosition, ref velocity, smoothTime);
             

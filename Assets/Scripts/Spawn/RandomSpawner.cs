@@ -4,15 +4,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-public class RandomSpawner : MonoBehaviour
+public class RandomSpawner : Spawner
 {
     [SerializeField] private GameObject[] objectsToSpawn;
-    [SerializeField] private Transform spawnPosition;
-
-    [SerializeField] private bool spawnOnStart;
-    [SerializeField] private Transform spawned;
-    [SerializeField] private int emptyObjectsAmount;
     
+    [Header("Conditional functional")]
+    [Tooltip("Set 'true' to spawn object on Start")]
+    [SerializeField] private bool spawnOnStart;
+    [Tooltip("Amount of empty objects")]
+    [SerializeField] private int emptyObjectsAmount;
+
     private void Start()
     {
         if (spawnOnStart)
@@ -21,27 +22,21 @@ public class RandomSpawner : MonoBehaviour
         }
     }
 
-    public void Spawn()
+    private new void Spawn()
     {
         int inArrayPosition = Random.Range(0, objectsToSpawn.Length + emptyObjectsAmount);
-        Debug.Log(gameObject.name + " " + inArrayPosition);
+ 
         if (inArrayPosition < objectsToSpawn.Length)
         {
-            spawned = Instantiate(objectsToSpawn[inArrayPosition], spawnPosition).transform; 
+            spawned = Instantiate(objectsToSpawn[inArrayPosition], spawnPosition).transform;
             SetParent();
         }
-
     }
     
-    public void SetParent()
-    {
-        spawned.parent = transform;
-    }
-
-    public void Despawn(GameObject objectToDespawn)
+    protected override void DespawnLogic(GameObject objectToDespawn)
     {
         Spawn();
-        SetParent();
         Destroy(objectToDespawn);
     }
+    
 }
